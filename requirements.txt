@@ -6,3 +6,5 @@ kaggle
 sqlalchemy
 matplotlib
 sklearn
+umap-learn
+seaborn
