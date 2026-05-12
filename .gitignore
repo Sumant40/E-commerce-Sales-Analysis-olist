@@ -1,0 +1,7 @@
+*.csv
+*.db
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
+.env
+.kaggle/
