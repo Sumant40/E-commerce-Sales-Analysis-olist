@@ -191,12 +191,3 @@ streamlit run app.py
 
 Each limitation is documented in the relevant notebook with a recommended production fix.
 
----
-
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
-
----
-
-*Built as a 7-day advanced portfolio project — e-commerce sales analysis on real Brazilian market data.*
