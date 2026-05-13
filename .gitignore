@@ -1,11 +1,15 @@
-*.csv
+# Raw data and database — too large for GitHub
+data/raw/
 *.db
 *.parquet
+
+# Models — too large for GitHub
+data/models/
+
+# Python
 __pycache__/
 .ipynb_checkpoints/
 .env
 .kaggle/
 .venv/
 venv/
-data/models/umap_reducer.pkl
-data/models/umap_model.pkl
