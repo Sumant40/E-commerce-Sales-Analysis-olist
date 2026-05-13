@@ -5,3 +5,7 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .kaggle/
+.venv/
+venv/
+data/models/umap_reducer.pkl
+data/models/umap_model.pkl
