@@ -12,3 +12,7 @@ xgboost
 shap 
 imbalanced-learn 
 optuna
+lifetimes
+streamlit 
+plotly 
+watchdog
