@@ -8,3 +8,7 @@ matplotlib
 sklearn
 umap-learn
 seaborn
+xgboost 
+shap 
+imbalanced-learn 
+optuna
